@@ -1,0 +1,8 @@
+tensorflow
+numpy
+Pillow
+opencv-python
+matplotlib
+Flask
+Werkzeug
+reportlab
